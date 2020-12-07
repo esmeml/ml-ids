@@ -1,2 +1,7 @@
-# ml-ids
-A machine learning-based intrusion detection system
+# ML-IDS: a machine learning-based intrusion detection system
+
+## Objective
+
+## Data
+
+##
